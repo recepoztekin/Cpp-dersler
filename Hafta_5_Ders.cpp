@@ -8,7 +8,7 @@ int main()
 {
 	setlocale(LC_ALL, "Turkish");
 	//int i = 0;
-	//while (i < 5) //ko˛ul true old. s¸rece
+	//while (i < 5) //ko√æul true old. s√ºrece
 	//{
 	//	cout << i << endl;
 	//	i++;
@@ -21,13 +21,13 @@ int main()
 
 	/*for (int i = 0; i <= 1; i++) {
 
-		cout << "›kinci dˆng¸ ba˛lad˝ !\n";
+		cout << "√ùkinci d√∂ng√º ba√ælad√Ω !\n";
 		for (int j = 0; j <= 1; j++) {
 			cout << "Merhaba\n";
 
 			for (int k = 0; k < 2; k++)
 			{
-				cout << "3. dˆng¸\n";
+				cout << "3. d√∂ng√º\n";
 			}
 		}
 	}*/
@@ -42,7 +42,7 @@ int main()
 		}
 	}*/
 
-	// foreach  --> for (tip dei˛ken_adi : dizi_adi) { }
+	// foreach  --> for (tip de√∞i√æken_adi : dizi_adi) { }
 
 	/*int dizi[5] = {2, 3, 6, 4, 3};
 	for (int i : dizi)
@@ -61,6 +61,18 @@ int main()
 	}
 	cout << "ortalama: " << (double)toplam / 10 << endl;
 	cout << "toplam: " << toplam << endl;*/
+
+	/*for (int i = 0; i < 5; i++) {
+
+	if (i == 3) {
+		continue;
+
+	}
+	cout << i << endl;
+	cout << "3 yazƒ±lmayacak" << endl;
+        }
+        cout << "D√∂ng√º bitti" << endl;*/
+	
 }
 
 
