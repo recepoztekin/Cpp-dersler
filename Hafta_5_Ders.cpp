@@ -72,18 +72,4 @@ int main()
 	cout << "3 yazılmayacak" << endl;
         }
         cout << "Döngü bitti" << endl;*/
-	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
